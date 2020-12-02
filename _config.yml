@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jordan Satler / Research"
+title                    : "Jordan Satler's website"
 title_separator          : "-"
 name                     : &name "Jordan Satler"
 description              : &description "I am an evolutionary biologist fascinated by the diversity of life"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jordan Satler"
-  avatar           : "profile.png"
+  avatar           : "profile_pic_satler.jpg"
   bio              : "Postdoctoral Researcher"
   location         : "Ames, Iowa"
   employer         :
