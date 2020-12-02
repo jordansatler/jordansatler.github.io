@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jordan Satler's website"
+title                    : "Jordan Satler's Website"
 title_separator          : "-"
 name                     : &name "Jordan Satler"
 description              : &description "I am an evolutionary biologist fascinated by the diversity of life"
@@ -82,34 +82,34 @@ analytics:
 author:
   name             : "Jordan Satler"
   avatar           : "profile_pic_satler.jpg"
-  bio              : "Postdoctoral Researcher"
+  bio              : "I am a postdoctoral researcher studying fig and fig wasp coevolution"
   location         : "Ames, Iowa"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  employer         : "Iowa State University"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=Ktn4eG8AAAAJ&hl=en&oi=ao"
+  email            : "jordansatler@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
+  flickr           : "/photos/124023731@N07/"
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "jordansatler"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "https://orcid.org/0000-0003-0156-2147"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
