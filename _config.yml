@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Jordan Satler's Website"
 title_separator          : "-"
 name                     : &name "Jordan Satler"
-description              : &description "I am an evolutionary biologist fascinated by the diversity of life"
+description              : &description "Postdoctoral researcher at Iowa State University"
 url                      : https://jordansatler.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jordansatler/jordansatler.github.io"
+repository               : "jordansatler.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jordan Satler"
   avatar           : "profile_pic_satler.jpg"
-  bio              : "I am a postdoctoral researcher studying fig and fig wasp coevolution"
+  bio              : "I am an evolutionary biologist fascinated by biodiversity"
   location         : "Ames, Iowa"
   employer         : "Iowa State University"
   pubmed           : 
