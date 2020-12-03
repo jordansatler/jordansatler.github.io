@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 Link to Google Scholar page [here](https://scholar.google.com/citations?user=Ktn4eG8AAAAJ&hl=en&oi=ao).
-Please send me an email if you would like access to any of these papers.
+Please email me if you would like access to any of these papers.
 
 ---***in review***---
 
@@ -31,14 +31,14 @@ Houston DD, **Satler JD**, Stack TK, Carroll HM, Bevan AM, Moya AL, Alexander KD
 
 7\. Garrick RC, Bonatelli IAS, Hyseni C, Morales A, Pelletier TA, Perez MF, Rice E, **Satler JD**, Symula RE, Thome MTC, Carstens BC. 2015. The evolution of phylogeographic data sets. *Molecular Ecology*, 24: 1164–1171. (DOI: 10.1111/mec.13108) [link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.13108)
 
-6\. Reid NM, Hird SM, Brown JM, Pelletier TA, McVay JD, **Satler JD**, Carstens BC. 2014. Poor fit to the multispecies coalescent is widely detectable in empirical data. *Systematic Biology*, 63: 322–333. (doi: 10.1093/sysbio/syt057) [link](https://academic.oup.com/sysbio/article/63/3/322/1647401)
+6\. Reid NM, Hird SM, Brown JM, Pelletier TA, McVay JD, **Satler JD**, Carstens BC. 2014. Poor fit to the multispecies coalescent is widely detectable in empirical data. *Systematic Biology*, 63: 322–333. (DOI: 10.1093/sysbio/syt057) [link](https://academic.oup.com/sysbio/article/63/3/322/1647401)
 
-5\. Carstens BC, Pelletier TA, Reid NM, **Satler JD**. 2013. How to fail at species delimitation. *Molecular Ecology*, 22: 4369–4383. (doi: 10.1111/mec.12413) [link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.12413)
+5\. Carstens BC, Pelletier TA, Reid NM, **Satler JD**. 2013. How to fail at species delimitation. *Molecular Ecology*, 22: 4369–4383. (DOI: 10.1111/mec.12413) [link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.12413)
 
-4\. **Satler JD**, Carstens BC, Hedin MC. 2013. Multilocus species delimitation in a complex of morphologically conserved trapdoor spiders (Mygalomorphae, Antrodiaetidae, *Aliatypus*). *Systematic Biology*, 62: 805–823. (doi: 10.1093/sysbio/syt041) [link](https://academic.oup.com/sysbio/article/62/6/805/1709071)
+4\. **Satler JD**, Carstens BC, Hedin MC. 2013. Multilocus species delimitation in a complex of morphologically conserved trapdoor spiders (Mygalomorphae, Antrodiaetidae, *Aliatypus*). *Systematic Biology*, 62: 805–823. (DOI: 10.1093/sysbio/syt041) [link](https://academic.oup.com/sysbio/article/62/6/805/1709071)
 
-3\. Carstens BC, **Satler JD**. 2013. The carnivorous plant described as *Sarracenia alata* contains two cryptic species. *Biological Journal of the Linnean Society*, 109: 737–746. (doi: 10.1111/bij.12093) [link](https://onlinelibrary.wiley.com/doi/abs/10.1111/bij.12093?deniedAccessCustomisedMessage=&userIsAuthenticated=false)
+3\. Carstens BC, **Satler JD**. 2013. The carnivorous plant described as *Sarracenia alata* contains two cryptic species. *Biological Journal of the Linnean Society*, 109: 737–746. (DOI: 10.1111/bij.12093) [link](https://onlinelibrary.wiley.com/doi/abs/10.1111/bij.12093?deniedAccessCustomisedMessage=&userIsAuthenticated=false)
 
-2\. Carstens BC, Brennan RS, Chua V, Duffie CV, Harvey MG, Koch RA, McMahan CD, Nelson BJ, Newman CE, **Satler JD**, Seeholzer G, Posbic K, Tank DC, Sullivan J. 2013. Model selection as a tool for phylogeographic inference: an example from the willow *Salix melanoplis*. *Molecular Ecology*, 22: 4014–4028. (doi: 10.1111/mec.12347) [link](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.12347?deniedAccessCustomisedMessage=&userIsAuthenticated=false)
+2\. Carstens BC, Brennan RS, Chua V, Duffie CV, Harvey MG, Koch RA, McMahan CD, Nelson BJ, Newman CE, **Satler JD**, Seeholzer G, Posbic K, Tank DC, Sullivan J. 2013. Model selection as a tool for phylogeographic inference: an example from the willow *Salix melanoplis*. *Molecular Ecology*, 22: 4014–4028. (DOI: 10.1111/mec.12347) [link](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.12347?deniedAccessCustomisedMessage=&userIsAuthenticated=false)
 
-1\. **Satler JD**, Starrett J, Hayashi CY, Hedin M. 2011. Inferring species trees from gene trees in a radiation of California trapdoor spiders (Araneae, Antrodiaetidae, *Aliatypus*). *PLoS ONE*, 6(9):e25355. (doi:10.1371/journal.pone.0025355) [link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0025355#pone-0025355-g005)
+1\. **Satler JD**, Starrett J, Hayashi CY, Hedin M. 2011. Inferring species trees from gene trees in a radiation of California trapdoor spiders (Araneae, Antrodiaetidae, *Aliatypus*). *PLoS ONE*, 6(9):e25355. (DOI: 10.1371/journal.pone.0025355) [link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0025355#pone-0025355-g005)
