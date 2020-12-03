@@ -4,4 +4,5 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 ---
-<image src="files/Satler_cv.png"/>
+<object data="files/Satler_cv.pdf" type=application/pdf width=100%>
+</object>
