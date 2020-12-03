@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Please email me if you would like access to any of these papers.
+Please email me if you would any of these papers.
 
 ---***in review***---
 
