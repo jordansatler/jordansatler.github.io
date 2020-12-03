@@ -4,7 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
 Link to Google Scholar page [here](https://scholar.google.com/citations?user=Ktn4eG8AAAAJ&hl=en&oi=ao).
 
 ***in review***
