@@ -4,14 +4,13 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Link to Google Scholar page [here](https://scholar.google.com/citations?user=Ktn4eG8AAAAJ&hl=en&oi=ao).
 Please email me if you would like access to any of these papers.
 
 ---***in review***---
 
 Houston DD, **Satler JD**, Stack TK, Carroll HM, Bevan AM, Moya AL, Alexander KD. A phylogenomic perspective on the evolutionary history of the stonefly genus *Suwallia* (Plecoptera: Chloroperlidae) revealed by ultraconserved genomic elements. *Molecular Phylogenetics and Evolution*
 
-**Satler JD**, Herre EA, Heath TA, Machado CA, Zuniga AG, Nason JD. Genome-wide sequence data show no evidence of admixture and introgression among pollinator wasps associated with a community of Panamanian strangler figs. *Molecular Ecology*
+**Satler JD**, Herre EA, Heath TA, Machado CA, Zuniga AG, Nason JD. Genome-wide sequence data show no evidence of admixture and introgression among pollinator wasps associated with a community of Panamanian strangler figs. *Molecular Ecology*  
 
 
 
