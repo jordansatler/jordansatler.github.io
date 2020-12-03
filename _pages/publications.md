@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-Link to Google Scholar page here.
+Link to Google Scholar page [here](https://scholar.google.com/citations?user=Ktn4eG8AAAAJ&hl=en&oi=ao).
 
-*in review*
+***in review***
 
 Houston DD, **Satler JD**, Stack TK, Carroll HM, Bevan AM, Moya AL, Alexander KD. A phylogenomic perspective on the evolutionary history of the stonefly genus *Suwallia* (Plecoptera: Chloroperlidae) revealed by ultraconserved genomic elements. *Molecular Phylogenetics and Evolution*
 
@@ -15,9 +15,9 @@ Houston DD, **Satler JD**, Stack TK, Carroll HM, Bevan AM, Moya AL, Alexander KD
 
 
 
-*published*
+***published***
 
-**Satler JD**, Bernhard KK, Stireman JO, Machado CA, Houston DD, Nason JD. 2020. Community structure and undescribed species diversity in non-pollinating fig wasps associated with the strangler fig *Ficus petiolaris*. *Insect Systematics and Diversity*, 4: 1–13. (DOI: 10.1093/isd/ixaa005) link
+**Satler JD**, Bernhard KK, Stireman JO, Machado CA, Houston DD, Nason JD. 2020. Community structure and undescribed species diversity in non-pollinating fig wasps associated with the strangler fig *Ficus petiolaris*. *Insect Systematics and Diversity*, 4: 1–13. (DOI: 10.1093/isd/ixaa005) [link](https://academic.oup.com/isd/article/4/2/3/5825213?searchresult=1)
 
 **Satler JD**, Herre EA, Jander KC, Eaton DAR, Machado CA, Heath TA, Nason JD. 2019. Inferring processes of coevolutionary diversification in a community of Panamanian strangler figs and associated pollinating wasps. *Evolution*, 73: 2295–2311. (DOI: 10.1111/evo.13809) link
 
