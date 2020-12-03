@@ -7,7 +7,7 @@ author_profile: true
 Link to Google Scholar page [here](https://scholar.google.com/citations?user=Ktn4eG8AAAAJ&hl=en&oi=ao).
 Please send me an email if you would like access to any of these papers.
 
-***in review***
+---***in review***---
 
 Houston DD, **Satler JD**, Stack TK, Carroll HM, Bevan AM, Moya AL, Alexander KD. A phylogenomic perspective on the evolutionary history of the stonefly genus *Suwallia* (Plecoptera: Chloroperlidae) revealed by ultraconserved genomic elements. *Molecular Phylogenetics and Evolution*
 
@@ -15,7 +15,7 @@ Houston DD, **Satler JD**, Stack TK, Carroll HM, Bevan AM, Moya AL, Alexander KD
 
 
 
-***published***
+---***published***---
 
 13\. **Satler JD**, Bernhard KK, Stireman JO, Machado CA, Houston DD, Nason JD. 2020. Community structure and undescribed species diversity in non-pollinating fig wasps associated with the strangler fig *Ficus petiolaris*. *Insect Systematics and Diversity*, 4: 1–13. (DOI: 10.1093/isd/ixaa005) [link](https://academic.oup.com/isd/article/4/2/3/5825213?searchresult=1)
 
