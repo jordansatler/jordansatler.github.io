@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jordan Satler's Website"
+title                    : #"Jordan Satler's Website"
 title_separator          : "-"
 name                     : &name "Jordan Satler"
 description              : &description "Postdoctoral researcher at Iowa State University"
