@@ -2,8 +2,6 @@
 permalink: /
 title: "About"
 excerpt: "About me"
-header:
-  image: TasSunset-crop.png
 author_profile: true
 redirect_from: 
   - /about/
