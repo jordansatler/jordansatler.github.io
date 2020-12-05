@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Jordan Satler"
 title_separator          : "-"
 name                     : &name "Jordan Satler"
 description              : &description "Postdoctoral researcher at Iowa State University"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jordan Satler"
   avatar           : "profile_pic_satler.jpg"
-  bio              : "I am an evolutionary biologist fascinated by biodiversity"
+  bio              : "Postdoctoral researcher at Iowa State University"
   location         : "Ames, Iowa"
   employer         : "Iowa State University"
   pubmed           : 
