@@ -8,7 +8,9 @@ Please email me if you want any of these papers.
 
 ---***in review***---
 
-**Satler JD**, Herre EA, Heath TA, Machado CA, Zuniga AG, Nason JD. Genome-wide sequence data show no evidence of admixture and introgression among pollinator wasps associated with a community of Panamanian strangler figs. *Molecular Ecology*. preprint available on [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.12.09.418376v1)
+**Satler JD**, Herre EA, Heath TA, Machado CA, Zuniga AG, Nason JD. Genome-wide sequence data show no evidence of admixture and introgression among pollinator wasps associated with a community of Panamanian strangler figs. *Molecular Ecology*. (preprint available on [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.12.09.418376v1))
+
+**Satler JD**, Carstens BC, Garrick RC, Espindola A. The phylogeographic shortfall in hexapods: a lot of leg work remaining. *Insect Systematics and Diversity*
 
 Houston DD, **Satler JD**, Stack TK, Carroll HM, Bevan AM, Moya AL, Alexander KD. A phylogenomic perspective on the evolutionary history of the stonefly genus *Suwallia* (Plecoptera: Chloroperlidae) revealed by ultraconserved genomic elements. *Molecular Phylogenetics and Evolution*
 
