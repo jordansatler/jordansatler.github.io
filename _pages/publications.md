@@ -16,7 +16,7 @@ Houston DD, **Satler JD**, Stack TK, Carroll HM, Bevan AM, Moya AL, Alexander KD
 
 ---***published***---
 
-14\. **Satler JD**, Carstens BC, Garrick RC, Espindola A. The phylogeographic shortfall in hexapods: a lot of leg work remaining. *Insect Systematics and Diversity*, 5:1–18. (DOI: 10.1093/isd/ixab015) [link](https://academic.oup.com/isd/article/5/5/1/6361054)
+14\. **Satler JD**, Carstens BC, Garrick RC, Espindola A. 2021. The phylogeographic shortfall in hexapods: a lot of leg work remaining. *Insect Systematics and Diversity*, 5:1–18. (DOI: 10.1093/isd/ixab015) [link](https://academic.oup.com/isd/article/5/5/1/6361054)
 
 13\. **Satler JD**, Bernhard KK, Stireman JO, Machado CA, Houston DD, Nason JD. 2020. Community structure and undescribed species diversity in non-pollinating fig wasps associated with the strangler fig *Ficus petiolaris*. *Insect Systematics and Diversity*, 4: 1–13. (DOI: 10.1093/isd/ixaa005) [link](https://academic.oup.com/isd/article/4/2/3/5825213?searchresult=1)
 
