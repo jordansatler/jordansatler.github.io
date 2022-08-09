@@ -4,7 +4,6 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 ---
-<!DOCTYPE html>
 <html>
 	<head>
 		<meta charset="UTF-8" />
