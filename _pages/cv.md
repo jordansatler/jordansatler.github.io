@@ -4,6 +4,18 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 ---
-<object width="400" height="350" type="application/pdf" data="https://jordansatler.github.io/files/Satler_cv.pdf">
-    <p>This browser does not support PDFs. Please download the <a href="https://jordansatler.github.io/files/Satler_cv.pdf">PDF here</a>.</p>
-</object>
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>PDF.js Example</title>
+	</head>
+	<body>
+		<iframe
+			src="/viewer/web/viewer.html?file=/files/Satler_cv.pdf"
+			width="800px"
+			height="600px"
+			style="border: none;"
+		/>
+	</body>
+</html>
