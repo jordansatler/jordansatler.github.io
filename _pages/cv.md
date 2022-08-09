@@ -12,7 +12,7 @@ author_profile: true
 	<body>
 		<iframe
 			src="/viewer/web/viewer.html?file=/files/Satler_cv.pdf#fitH"
-			width="800px"
+			width="80%"
 			height="600px"
 			style="border: none;"
 		/>
