@@ -6,11 +6,9 @@ author_profile: true
 ---
 Please email me if you want any of these papers.
 
----***in review***---
-
-**Satler JD**, Herre EA, Heath TA, Machado CA, Zuniga AG, Jander KC, Eaton DAR, Nason JD. Pollinator and host sharing lead to hybridization and introgression in Panamanian free-standing figs, but not in their pollinator wasps. *Ecology and Evolution*. (preprint available at [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.08.04.502839v1))
-
 ---***published***---
+
+17\. **Satler JD**, Herre EA, Heath TA, Machado CA, Zuniga AG, Jander KC, Eaton DAR, Nason JD. 2023. Pollinator and host sharing lead to hybridization and introgression in Panamanian free-standing figs, but not in their pollinator wasps. *Ecology and Evolution*, 13:e9673. (DOI: 10.1002/ece3.9673) [link](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.9673)
 
 16\. **Satler JD**, Herre EA, Heath TA, Machado CA, Zuniga AG, Nason JD. 2022. Genome-wide sequence data show no evidence of admixture and introgression among pollinator wasps associated with a community of Panamanian strangler figs. *Molecular Ecology*, 31:2106–2123. (DOI: 10.1111/mec.16373) [link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.16373)
 
