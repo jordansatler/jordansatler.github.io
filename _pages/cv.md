@@ -4,17 +4,9 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 ---
-<html>
-	<head>
-		<meta charset="UTF-8" />
-		<title>PDF.js Example</title>
-	</head>
-	<body>
-		<iframe
-			src="/viewer/web/viewer.html?file=/files/Satler_cv.pdf#fitH"
-			width="100%"
-			height="600px"
-			style="border: none;"
-		/>
-	</body>
-</html>
+
+<p><a href="/files/Satler_cv.pdf" target="_blank" rel="noopener">Download / open my CV (PDF)</a></p>
+
+<object data="/files/Satler_cv.pdf#fitH" type="application/pdf" width="100%" height="600px">
+	<p>Your browser does not support inline PDFs. <a href="/files/Satler_cv.pdf" target="_blank" rel="noopener">Download the PDF</a> instead.</p>
+</object>

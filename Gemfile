@@ -11,6 +11,10 @@ source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
 
+# webrick was removed from Ruby's stdlib in Ruby 3.0; Jekyll's local
+# `serve` command needs it. Required for local previews on modern Ruby.
+gem "webrick", "~> 1.8"
+
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
 
